@@ -15,3 +15,20 @@ Pandas, Matplotlib, Seaborn, NumPy
 
 -----
 
+
+## Task 2: Loan Approval Prediction
+
+### Objective:
+Build a machine learning model to predict the approval of loan applications based on applicant information.
+
+### Highlights:
+- Handling missing values and categorical variables
+- Feature engineering and model training
+- Algorithms used: Logistic Regression, Decision Tree, and others
+- Model evaluation using metrics such as accuracy and confusion matrix
+
+### Tools Used:
+Pandas, Scikit-learn, Matplotlib, Seaborn
+
+---
+
