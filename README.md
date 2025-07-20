@@ -32,3 +32,18 @@ Pandas, Scikit-learn, Matplotlib, Seaborn
 
 ---
 
+## Task 3: Instagram Data Analysis
+
+### Objective:
+Conduct analysis on Instagram post and user data to understand engagement levels, popular content, and top-performing users based on likes and comments.
+
+### Highlights:
+- Combined datasets (`photos.csv`, `comments.csv`, `likes.csv`) for unified analysis
+- Identified most liked and most commented photos
+- Analyzed user posting behavior and top content creators
+- Visualized engagement distribution and interaction patterns
+
+### Tools Used:
+Pandas, Matplotlib, Seaborn
+
+---
