@@ -1,5 +1,6 @@
 # ALFIDO--TECH-INTERNSHIP
 ## Task 1: ZOMATO DATASET ANALYSIS
+# Dataset : https://www.kaggle.com/datasets/bhanupratapbiswas/zomato
 
 ### Objective:
 Perform Exploratory Data Analysis (EDA) on the Zomato dataset to uncover insights related to restaurant types, locations, customer preferences, pricing strategies, and service options.
@@ -17,6 +18,7 @@ Pandas, Matplotlib, Seaborn, NumPy
 
 
 ## Task 2: Loan Approval Prediction
+# Dataset : https://www.kaggle.com/datasets/bhanupratapbiswas/loan-approval-prediction-case-study
 
 ### Objective:
 Build a machine learning model to predict the approval of loan applications based on applicant information.
@@ -33,6 +35,8 @@ Pandas, Scikit-learn, Matplotlib, Seaborn
 ---
 
 ## Task 3: Instagram Data Analysis
+
+# Dataset : https://www.kaggle.com/datasets/bhanupratapbiswas/instgram
 
 ### Objective:
 Conduct analysis on Instagram post and user data to understand engagement levels, popular content, and top-performing users based on likes and comments.
